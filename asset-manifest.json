@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/monk-windwalker-guide/static/css/main.d1b05096.chunk.css",
+    "main.js": "/monk-windwalker-guide/static/js/main.6497f390.chunk.js",
+    "main.js.map": "/monk-windwalker-guide/static/js/main.6497f390.chunk.js.map",
+    "runtime-main.js": "/monk-windwalker-guide/static/js/runtime-main.5e30db71.js",
+    "runtime-main.js.map": "/monk-windwalker-guide/static/js/runtime-main.5e30db71.js.map",
+    "static/js/2.7102f51c.chunk.js": "/monk-windwalker-guide/static/js/2.7102f51c.chunk.js",
+    "static/js/2.7102f51c.chunk.js.map": "/monk-windwalker-guide/static/js/2.7102f51c.chunk.js.map",
+    "index.html": "/monk-windwalker-guide/index.html",
+    "precache-manifest.9386d6fdfaafea9d51bebdfcf2dfed13.js": "/monk-windwalker-guide/precache-manifest.9386d6fdfaafea9d51bebdfcf2dfed13.js",
+    "service-worker.js": "/monk-windwalker-guide/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/monk-windwalker-guide/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.7102f51c.chunk.js.LICENSE": "/monk-windwalker-guide/static/js/2.7102f51c.chunk.js.LICENSE",
+    "static/media/logo.svg": "/monk-windwalker-guide/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e30db71.js",
+    "static/js/2.7102f51c.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.6497f390.chunk.js"
+  ]
+}
