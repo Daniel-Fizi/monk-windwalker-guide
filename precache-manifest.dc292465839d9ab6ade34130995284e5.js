@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0513c70eb46dc9b5ef3e3bd5576336d",
+    "revision": "1924729951f6d606287961f1be142c82",
     "url": "/monk-windwalker-guide/index.html"
   },
   {
-    "revision": "6be84ee750f4ac0443ba",
+    "revision": "8340bd295fc7efec7f3b",
     "url": "/monk-windwalker-guide/static/css/main.c0f91e7e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monk-windwalker-guide/static/js/2.5031a29a.chunk.js.LICENSE"
   },
   {
-    "revision": "6be84ee750f4ac0443ba",
-    "url": "/monk-windwalker-guide/static/js/main.2e9c65b6.chunk.js"
+    "revision": "8340bd295fc7efec7f3b",
+    "url": "/monk-windwalker-guide/static/js/main.23e3a446.chunk.js"
   },
   {
     "revision": "1e755af9b9cda45dd3ee",
