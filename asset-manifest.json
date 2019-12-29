@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/monk-windwalker-guide/static/css/main.c0f91e7e.chunk.css",
-    "main.js": "/monk-windwalker-guide/static/js/main.23e3a446.chunk.js",
-    "main.js.map": "/monk-windwalker-guide/static/js/main.23e3a446.chunk.js.map",
+    "main.js": "/monk-windwalker-guide/static/js/main.8afc1b0f.chunk.js",
+    "main.js.map": "/monk-windwalker-guide/static/js/main.8afc1b0f.chunk.js.map",
     "runtime-main.js": "/monk-windwalker-guide/static/js/runtime-main.5e30db71.js",
     "runtime-main.js.map": "/monk-windwalker-guide/static/js/runtime-main.5e30db71.js.map",
     "static/js/2.5031a29a.chunk.js": "/monk-windwalker-guide/static/js/2.5031a29a.chunk.js",
     "static/js/2.5031a29a.chunk.js.map": "/monk-windwalker-guide/static/js/2.5031a29a.chunk.js.map",
     "index.html": "/monk-windwalker-guide/index.html",
-    "precache-manifest.dc292465839d9ab6ade34130995284e5.js": "/monk-windwalker-guide/precache-manifest.dc292465839d9ab6ade34130995284e5.js",
+    "precache-manifest.9492b7d836853f3aa6994b9bfcf8ca24.js": "/monk-windwalker-guide/precache-manifest.9492b7d836853f3aa6994b9bfcf8ca24.js",
     "service-worker.js": "/monk-windwalker-guide/service-worker.js",
     "static/css/main.c0f91e7e.chunk.css.map": "/monk-windwalker-guide/static/css/main.c0f91e7e.chunk.css.map",
     "static/js/2.5031a29a.chunk.js.LICENSE": "/monk-windwalker-guide/static/js/2.5031a29a.chunk.js.LICENSE",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.5e30db71.js",
     "static/js/2.5031a29a.chunk.js",
     "static/css/main.c0f91e7e.chunk.css",
-    "static/js/main.23e3a446.chunk.js"
+    "static/js/main.8afc1b0f.chunk.js"
   ]
 }
