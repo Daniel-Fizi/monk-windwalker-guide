@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/monk-windwalker-guide/static/css/main.6ddd8592.chunk.css",
-    "main.js": "/monk-windwalker-guide/static/js/main.08eac02d.chunk.js",
-    "main.js.map": "/monk-windwalker-guide/static/js/main.08eac02d.chunk.js.map",
+    "main.css": "/monk-windwalker-guide/static/css/main.0909b3ce.chunk.css",
+    "main.js": "/monk-windwalker-guide/static/js/main.349d233e.chunk.js",
+    "main.js.map": "/monk-windwalker-guide/static/js/main.349d233e.chunk.js.map",
     "runtime-main.js": "/monk-windwalker-guide/static/js/runtime-main.5e30db71.js",
     "runtime-main.js.map": "/monk-windwalker-guide/static/js/runtime-main.5e30db71.js.map",
-    "static/js/2.660ae550.chunk.js": "/monk-windwalker-guide/static/js/2.660ae550.chunk.js",
-    "static/js/2.660ae550.chunk.js.map": "/monk-windwalker-guide/static/js/2.660ae550.chunk.js.map",
+    "static/js/2.9ae5fe61.chunk.js": "/monk-windwalker-guide/static/js/2.9ae5fe61.chunk.js",
+    "static/js/2.9ae5fe61.chunk.js.map": "/monk-windwalker-guide/static/js/2.9ae5fe61.chunk.js.map",
     "index.html": "/monk-windwalker-guide/index.html",
-    "precache-manifest.47f84fb6117b9e84667fb6b57523549f.js": "/monk-windwalker-guide/precache-manifest.47f84fb6117b9e84667fb6b57523549f.js",
+    "precache-manifest.602cf9bf54c050f8bbf186ca833a5484.js": "/monk-windwalker-guide/precache-manifest.602cf9bf54c050f8bbf186ca833a5484.js",
     "service-worker.js": "/monk-windwalker-guide/service-worker.js",
-    "static/css/main.6ddd8592.chunk.css.map": "/monk-windwalker-guide/static/css/main.6ddd8592.chunk.css.map",
-    "static/js/2.660ae550.chunk.js.LICENSE": "/monk-windwalker-guide/static/js/2.660ae550.chunk.js.LICENSE",
+    "static/css/main.0909b3ce.chunk.css.map": "/monk-windwalker-guide/static/css/main.0909b3ce.chunk.css.map",
+    "static/js/2.9ae5fe61.chunk.js.LICENSE": "/monk-windwalker-guide/static/js/2.9ae5fe61.chunk.js.LICENSE",
     "static/media/Armory.png": "/monk-windwalker-guide/static/media/Armory.c6cf380d.png",
     "static/media/fof.png": "/monk-windwalker-guide/static/media/fof.2e74c929.png",
     "static/media/jade_forest.jpg": "/monk-windwalker-guide/static/media/jade_forest.f63b45e5.jpg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5e30db71.js",
-    "static/js/2.660ae550.chunk.js",
-    "static/css/main.6ddd8592.chunk.css",
-    "static/js/main.08eac02d.chunk.js"
+    "static/js/2.9ae5fe61.chunk.js",
+    "static/css/main.0909b3ce.chunk.css",
+    "static/js/main.349d233e.chunk.js"
   ]
 }
