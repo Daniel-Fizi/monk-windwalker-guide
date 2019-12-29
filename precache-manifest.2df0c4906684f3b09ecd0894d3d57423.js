@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7be093e695aa43c85ff8e2329787f353",
+    "revision": "78b7fdbad41c42e1dc37a250afd2e55a",
     "url": "/monk-windwalker-guide/index.html"
   },
   {
-    "revision": "b673bee64f45a3e2fcfe",
-    "url": "/monk-windwalker-guide/static/css/main.7d9cd1ed.chunk.css"
+    "revision": "e0d00223f1e150110d4a",
+    "url": "/monk-windwalker-guide/static/css/main.38c3c0ca.chunk.css"
   },
   {
-    "revision": "a7b1e1b6bb844390a4f3",
-    "url": "/monk-windwalker-guide/static/js/2.af03339f.chunk.js"
+    "revision": "34c342e16e5fd1d91a90",
+    "url": "/monk-windwalker-guide/static/js/2.330d0316.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/monk-windwalker-guide/static/js/2.af03339f.chunk.js.LICENSE"
+    "url": "/monk-windwalker-guide/static/js/2.330d0316.chunk.js.LICENSE"
   },
   {
-    "revision": "b673bee64f45a3e2fcfe",
-    "url": "/monk-windwalker-guide/static/js/main.27af0ad4.chunk.js"
+    "revision": "e0d00223f1e150110d4a",
+    "url": "/monk-windwalker-guide/static/js/main.1fd63a21.chunk.js"
   },
   {
     "revision": "1e755af9b9cda45dd3ee",
