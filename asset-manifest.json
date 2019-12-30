@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/monk-windwalker-guide/static/css/main.ccc9c0f4.chunk.css",
-    "main.js": "/monk-windwalker-guide/static/js/main.7f1226fe.chunk.js",
-    "main.js.map": "/monk-windwalker-guide/static/js/main.7f1226fe.chunk.js.map",
+    "main.css": "/monk-windwalker-guide/static/css/main.bc6c9c43.chunk.css",
+    "main.js": "/monk-windwalker-guide/static/js/main.87e3efc9.chunk.js",
+    "main.js.map": "/monk-windwalker-guide/static/js/main.87e3efc9.chunk.js.map",
     "runtime-main.js": "/monk-windwalker-guide/static/js/runtime-main.5e30db71.js",
     "runtime-main.js.map": "/monk-windwalker-guide/static/js/runtime-main.5e30db71.js.map",
     "static/js/2.62390d69.chunk.js": "/monk-windwalker-guide/static/js/2.62390d69.chunk.js",
     "static/js/2.62390d69.chunk.js.map": "/monk-windwalker-guide/static/js/2.62390d69.chunk.js.map",
     "index.html": "/monk-windwalker-guide/index.html",
-    "precache-manifest.ccc70701a73d8bf0699d004c90289eaa.js": "/monk-windwalker-guide/precache-manifest.ccc70701a73d8bf0699d004c90289eaa.js",
+    "precache-manifest.88a3f814603cd1e65dd188dcfddcbfde.js": "/monk-windwalker-guide/precache-manifest.88a3f814603cd1e65dd188dcfddcbfde.js",
     "service-worker.js": "/monk-windwalker-guide/service-worker.js",
-    "static/css/main.ccc9c0f4.chunk.css.map": "/monk-windwalker-guide/static/css/main.ccc9c0f4.chunk.css.map",
+    "static/css/main.bc6c9c43.chunk.css.map": "/monk-windwalker-guide/static/css/main.bc6c9c43.chunk.css.map",
     "static/js/2.62390d69.chunk.js.LICENSE": "/monk-windwalker-guide/static/js/2.62390d69.chunk.js.LICENSE",
     "static/media/Armory.png": "/monk-windwalker-guide/static/media/Armory.c6cf380d.png",
     "static/media/fof.png": "/monk-windwalker-guide/static/media/fof.2e74c929.png",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.5e30db71.js",
     "static/js/2.62390d69.chunk.js",
-    "static/css/main.ccc9c0f4.chunk.css",
-    "static/js/main.7f1226fe.chunk.js"
+    "static/css/main.bc6c9c43.chunk.css",
+    "static/js/main.87e3efc9.chunk.js"
   ]
 }
