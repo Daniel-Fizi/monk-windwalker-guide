@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/monk-windwalker-guide/precache-manifest.50b937aee4ad5d1fdab53de883c55fd0.js"
+  "/monk-windwalker-guide/precache-manifest.3ccca22f476c78df0d87c9b46a666864.js"
 );
 
 self.addEventListener('message', (event) => {
